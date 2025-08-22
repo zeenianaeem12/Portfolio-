@@ -18,7 +18,7 @@ function App() {
           <h2>My Projects</h2>
           <div className="card-grid">
             <div className="card">
-              <img src="/images/foodpanda.jpg" alt="FoodPanda Ordering App" className="card-image" />
+              <img src="/foodpanda.jpg" alt="FoodPanda Ordering App" className="card-image" />
               <div className="card-content">
                 <h3>FoodPanda Ordering App</h3>
                 <p>
@@ -29,7 +29,7 @@ function App() {
             </div>
 
             <div className="card">
-              <img src="/images/textile.png" alt="Textile Management System" className="card-image" />
+              <img src="textile.png" alt="Textile Management System" className="card-image" />
               <div className="card-content">
                 <h3>Textile Management System</h3>
                 <p>
@@ -40,7 +40,7 @@ function App() {
             </div>
 
             <div className="card">
-              <img src="/images/dustbin.jpg" alt="Smart Motion-Detecting Dustbin" className="card-image" />
+              <img src="dustbin.jpg" alt="Smart Motion-Detecting Dustbin" className="card-image" />
               <div className="card-content">
                 <h3>Smart Motion-Detecting Dustbin</h3>
                 <p>
@@ -59,7 +59,7 @@ function App() {
           <h2>Work Experience</h2>
           <div className="card-grid">
             <div className="card">
-              <img src="/images/clicksotic.jpeg" alt="Clicksotic logo" className="card-image" />
+              <img src="clicksotic.jpeg" alt="Clicksotic logo" className="card-image" />
               <div className="card-content">
                 <h3>Back End Developer</h3>
                 <p className="company"><strong>ClickSotic</strong> (2024-Present)</p>
@@ -71,7 +71,7 @@ function App() {
             </div>
 
             <div className="card">
-              <img src="/images/aitomation.jpg" alt="Aitomation logo" className="card-image" />
+              <img src="aitomation.jpg" alt="Aitomation logo" className="card-image" />
               <div className="card-content">
                 <h3>Python Developer Intern</h3>
                 <p className="company"><strong>Aitomation</strong> (Jan-Apr 2025)</p>
@@ -91,7 +91,7 @@ function App() {
           <h2>Internships & Volunteer</h2>
           <div className="card-grid">
             <div className="card">
-              <img src="/images/netsol.png" alt="Netsol logo" className="card-image" />
+              <img src="netsol.png" alt="Netsol logo" className="card-image" />
               <div className="card-content">
                 <h3>Intern</h3>
                 <p className="company"><strong>NetSol Technologies</strong> (Aug – Sep 2025)</p>
@@ -100,7 +100,7 @@ function App() {
             </div>
 
             <div className="card">
-              <img src="/images/omnilife.png" alt="Omnilife logo" className="card-image" />
+              <img src="omnilife.png" alt="Omnilife logo" className="card-image" />
               <div className="card-content">
                 <h3>Development Volunteer</h3>
                 <p className="company"><strong>OmniLife VR FCCU Chapter</strong> (2022)</p>
