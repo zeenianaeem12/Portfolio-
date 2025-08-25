@@ -200,7 +200,9 @@ h2::after {
 }
 
 .skill-category:hover {
-  background: rgba(255, 255, 255, 0.15); /* same hover effect */
+  background: rgba(255, 255, 255, 0.15);
+  transform: translateY(-5px);
+  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.3); /* same hover effect */
 }
 
 .skill-category:last-child {
@@ -236,6 +238,8 @@ h2::after {
 
 .education-item:hover {
   background: rgba(255, 255, 255, 0.15);
+  transform: translateY(-5px);
+  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.3);
 }
 
 .education-item:last-child {
